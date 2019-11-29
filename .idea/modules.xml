@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Lambdas2-ZCW.iml" filepath="$PROJECT_DIR$/.idea/Lambdas2-ZCW.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lamdas/lamdas.iml" filepath="$PROJECT_DIR$/lamdas/lamdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamdasthing/lamdas.iml" filepath="$PROJECT_DIR$/lamdasthing/lamdas.iml" />
     </modules>
   </component>
 </project>

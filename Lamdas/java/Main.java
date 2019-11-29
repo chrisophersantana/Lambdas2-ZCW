@@ -22,11 +22,11 @@ public class Main {
         Person tp, tp1, tp2, tp3, tp4;
         ArrayList<Person> myPeeps = new ArrayList<>();
 
-        tp = new Person("Chris Santana", LocalDate.of(1990, Month.JANUARY, 19, Person.Sex.MALE, "Christoph@gmail.com"));
-        tp1 = new Person("Lola Sanchez", LocalDate.of(1995, Month.MARCH, 19, Person.Sex.MALE, "Lola@gmail.com"));
-        tp2 = new Person("Carlos Santana", LocalDate.of(2000, Month.JULY, 22, Person.Sex.FEMALE, "Carlos@gmail.com"));
-        tp3 = new Person("Rocky Balboa", LocalDate.of(1998, Month.NOVEMBER, 4, Person.Sex.FEMALE, "Rocky@gmail.com"));
-        tp4 = new Person("Goku Kakarot", LocalDate.of(2010, Month.APRIL, 6, Person.Sex.MALE, "Goku@gmail.com"));
+        tp = new Person("Chris Santana", LocalDate.of(1990, Month.JANUARY, 19), Person.Sex.MALE, "Christoph@gmail.com");
+        tp1 = new Person("Lola Sanchez", LocalDate.of(1995, Month.MARCH, 19), Person.Sex.MALE, "Lola@gmail.com");
+        tp2 = new Person("Carlos Santana", LocalDate.of(2000, Month.JULY, 22), Person.Sex.FEMALE, "Carlos@gmail.com");
+        tp3 = new Person("Rocky Balboa", LocalDate.of(1998, Month.NOVEMBER, 4), Person.Sex.FEMALE, "Rocky@gmail.com");
+        tp4 = new Person("Goku Kakarot", LocalDate.of(2010, Month.APRIL, 6), Person.Sex.MALE, "Goku@gmail.com");
         myPeeps.add(tp);
         myPeeps.add(tp1);
         myPeeps.add(tp2);
